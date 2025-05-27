@@ -1,0 +1,27 @@
+header {
+  background-color: #004466;
+  padding: 12px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+  color: #ffdd57;
+}
+body {
+  font-family: 'Arial', 'Segoe UI', sans-serif;
+}
+ul {
+  padding-left: 20px;
+  line-height: 1.6;
+}
+
+li {
+  color: #333;
+}
